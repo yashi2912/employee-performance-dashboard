@@ -6,6 +6,11 @@ Built an interactive Employee Performance Dashboard to track and analyze employe
 ### 📸 Dashboard Preview
 ![Dashboard](screenshots/dashboard.png)
 
+### 🔗 Links
+- LinkedIn Post: https://lnkd.in/p/gvEWsEQm
+- My LinkedIn Profile: https://www.linkedin.com/in/yashi-shukla-65a971385
+
+
 ### 🔹 Key KPIs
 - Total Employees: 89
 - Avg. Productivity: 91.9%
